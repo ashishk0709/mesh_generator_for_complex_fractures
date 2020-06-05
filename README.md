@@ -1,4 +1,4 @@
-# mesh_generator_for_complex_fractures
+# Mesh generator for arbitrarily shaped fractures
 Python script to automatically generate the finite-volume mesh for any given complex fracture network geometry.
 
 An open-source platform SALOME (https://www.salome-platform.org/) is used for creating the geometry and mesh which is conforming to the complex fracture network. 
